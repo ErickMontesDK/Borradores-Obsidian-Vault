@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FrontEnd/React.cloneElement y React.child.md",
+                "file": "Untitled.md",
                 "mode": "preview",
                 "source": true
               }
@@ -34,7 +34,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FrontEnd/React.cloneElement y React.child.md",
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": true
               }
@@ -170,8 +170,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "22ab4314b0462aa8",
+  "active": "e6c38883c4202097",
   "lastOpenFiles": [
+    "Home.md",
     "FrontEnd/React.cloneElement y React.child.md",
     "FrontEnd/FrontEnd Home.md",
     "FrontEnd/Componetes especializados.md",
@@ -195,7 +196,6 @@
     "FrontEnd/Notes/Webpack.md",
     "FrontEnd/Notes/^webpack-merge.md",
     "FrontEnd/Notes/Navegación Router.md",
-    "Home.md",
     "FrontEnd/Hooks.md",
     "FrontEnd/Notes/Single Page Application.md",
     "All docs/Files/Pasted image 20230426195146.png",
