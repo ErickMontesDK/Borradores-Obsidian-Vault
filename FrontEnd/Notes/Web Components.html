@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8">
+    <title>Ejemplo de Web Component con Custom Elements</title>
+  </head>
+  <body>
+    <!-- Crear un template para el componente -->
+    <template id="mi-componente">
+      <style>
+        /* Estilos personalizados para el componente */
+        button {
+          background-color: red;
+          color: white;
+          padding: 10px 20px;
+          border: none;
+          border-radius: 4px;
+          cursor: pointer;
+        }
+      </style>
+      <button>¡Haz clic aquí!</button>
+    </template>
+
+    <!-- Crear el Custom Element -->
+    <script>
+      class MiComponente extends HTMLElement {
+        constructor() {
+          super();
+          const template = document.getElementById('mi-componente').content;
+          const shadowRoot = this.attachShadow({mode: 'open'});
+          shadowRoot.appendChild(template.cloneNode(true));
+        }
+      }
+      customElements.define('mi-componente', MiComponente);
+    </script>
+
+    <!-- Utilizar el componente -->
+    <h1>Mi página web</h1>
+    <mi-componente></mi-componente>
+  </body>
+</html>

@@ -1,0 +1,26 @@
+{
+  "legacyEditor": false,
+  "livePreview": false,
+  "promptDelete": false,
+  "showLineNumber": false,
+  "newFileLocation": "current",
+  "newFileFolderPath": "All docs/",
+  "attachmentFolderPath": "All docs/Files",
+  "alwaysUpdateLinks": true,
+  "defaultViewMode": "preview",
+  "showFrontmatter": true,
+  "spellcheck": true,
+  "fileSortOrder": "byModifiedTime",
+  "pdfExportSettings": {
+    "includeName": false,
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "2",
+    "downscalePercent": 85
+  },
+  "spellcheckLanguages": [
+    "es",
+    "en-US"
+  ],
+  "showInlineTitle": true
+}

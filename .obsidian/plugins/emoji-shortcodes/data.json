@@ -1,0 +1,13 @@
+{
+  "immediateReplace": false,
+  "suggester": true,
+  "historyPriority": true,
+  "historyLimit": 100,
+  "history": [
+    ":metal:",
+    ":shamrock:",
+    ":card_index:",
+    ":rocket:",
+    ":atom_symbol:"
+  ]
+}

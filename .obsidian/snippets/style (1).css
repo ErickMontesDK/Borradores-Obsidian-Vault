@@ -1,0 +1,43 @@
+.markdown-preview-view h1 {
+    font-size:30px;
+    color:white;
+    text-align: center;
+}
+.markdown-preview-view h2{
+    font-size:18px;
+    color:rgba(220, 255, 255, .7);
+    margin:0px 0px 0px 10px;
+    padding-bottom:0px;
+}
+.markdown-preview-view h2::before{
+    content: " • ";
+}
+.markdown-preview-view h3{
+    margin:0px 0px 0px 10px;
+    padding-bottom:0px;
+}
+table{
+    border:3px solid rgba(255, 255, 255, .05);
+}
+hr{
+    border:1px solid rgba(125, 125, 125, .25);
+}
+.markdown-preview-view p{
+    text-align: left;
+    font-size:14px;
+}
+.markdown-preview-view table,p{
+    text-align: left;
+    font-size:14px;
+}
+.markdown-preview-view li{
+    font-size:14px;
+}
+.markdown-preview-view ul{
+    margin-top: 0px;
+}
+.markdown-preview-view mark{
+    background-color: rgba(220, 255, 255, .7);
+    font-weight:600;
+    color: #222222;
+}

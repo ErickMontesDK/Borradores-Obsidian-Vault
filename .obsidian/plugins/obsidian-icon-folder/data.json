@@ -1,0 +1,34 @@
+{
+  "settings": {
+    "migrated": true,
+    "iconPacksPath": ".obsidian/plugins/obsidian-icon-folder/icons",
+    "fontSize": 16,
+    "iconColor": "#9e9e9e",
+    "recentlyUsedIcons": [
+      "🔳",
+      "🛫",
+      "🎭",
+      "㊙",
+      "🐳"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "emojiStyle": "none",
+    "iconInTabsEnabled": false
+  },
+  "All docs": "🫤",
+  "BackEnd I": "🖥",
+  "DevOps": "🔁",
+  "UIUX": "✏",
+  "UIUX/UIUX Home.md": "🎨",
+  "DevOps/DevOps Home.md": "🐳",
+  "BackEnd I/BackEnd I Home.md": "㊙",
+  "FrontEnd": "🎭",
+  "FrontEnd/FrontEnd Home.md": "🔳"
+}
