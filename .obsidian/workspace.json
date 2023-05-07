@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "Home.md",
                 "mode": "preview",
                 "source": true
               }
@@ -34,7 +34,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "Home.md",
                 "mode": "source",
                 "source": true
               }
@@ -70,7 +70,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "python",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "Home.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,9 +172,21 @@
   },
   "active": "e6c38883c4202097",
   "lastOpenFiles": [
+    "ssssssssssssss.txt",
+    "React.md",
     "Home.md",
-    "FrontEnd/React.cloneElement y React.child.md",
+    "All docs/HTML/Bootstrap/Vue.md",
+    "All docs/CSS/MondoDB.md",
+    "All docs/Javascript/Javascript.md",
+    "All docs/CSS/CSS.md",
+    "All docs/HTML/Bootstrap/Bootstrap.md",
     "FrontEnd/FrontEnd Home.md",
+    "All docs/HTML/HTML.md",
+    "BackEnd I/BackEnd I Home.md",
+    "UIUX/UIUX Home.md",
+    "DevOps/DevOps Home.md",
+    "Untitled.md",
+    "FrontEnd/React.cloneElement y React.child.md",
     "FrontEnd/Componetes especializados.md",
     "FrontEnd/Testing with React.md",
     "FrontEnd/Render Props.md",
@@ -186,18 +198,6 @@
     "FrontEnd/useRef.md",
     "FrontEnd/custom hooks.md",
     "FrontEnd/useReducer.md",
-    "FrontEnd/Notes/JSX.md",
-    "FrontEnd/Fetch.md",
-    "FrontEnd/React.memo.md",
-    "FrontEnd/Controlled y uncontrolled components.md",
-    "FrontEnd/Eventos sintéticos.md",
-    "FrontEnd/Keys react.md",
-    "FrontEnd/Assests React.md",
-    "FrontEnd/Notes/Webpack.md",
-    "FrontEnd/Notes/^webpack-merge.md",
-    "FrontEnd/Notes/Navegación Router.md",
-    "FrontEnd/Hooks.md",
-    "FrontEnd/Notes/Single Page Application.md",
     "All docs/Files/Pasted image 20230426195146.png",
     "All docs/Files/Pasted image 20230426195136.png",
     "All docs/Files/Pasted image 20230426195132.png",

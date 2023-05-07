@@ -1,0 +1,235 @@
+
+HTML
+
+1. Layout html
+   * article
+   * aside
+   * footer
+   * header
+   * nav
+   * section
+   * Div
+   * Details and Summary
+   * Figure
+   * Paragraph
+   * Span
+   * time
+2. Elementos html
+   * br
+   * Favicon
+   * Headings
+   * Inputs
+   * Links
+   * Listas
+   * Table
+   * Audio
+   * Embed
+   * Graphics
+   * iFrame
+   * Imagenes
+   * Object
+   * Video
+3. Formatos de texto
+
+
+Bootstrap
+
+* Agregar bootstrap a html
+* Containers
+* Grid bs
+* Colors bootstrap | Colors
+* Imagenes bootstrap
+* Texto bootstrap
+* Tables bootstrap
+* Buttons bs
+* Alerts
+* Dropdown
+
+
+CSS
+
+1. Basics 🐣
+   * Selectores
+   * Background
+   * Border
+   * Paddings
+   * Outline
+   * Margins
+   * Box sizing
+   * Box reflect
+   * Objects css
+   * Columns
+   * Cursores
+   * Height and Width
+   * Icons
+      * FontAwesomeIcons
+      * Google Icons
+   * Inputs css
+   * Links css
+   * List
+   * Tables
+   * Text and Fonts
+   * Resizing
+2. Inter 🐥
+   * Content
+   * Counters
+   * Box shadow
+   * Display and visibility
+   * Flexbox
+   * Grid
+   * Float css | Float
+   * Clear
+   * Math
+   * Overflow
+   * Position
+      * Z-index
+   * @media queries
+   * Variables css
+3. Advanced 🐥
+   * Animations
+   * Gradientes
+   * Mask 
+   * 2D transforms
+   * 3D transforms
+   * Transitions
+
+JSS
+
+>* [[Agregar a html]]
+>* [[Comments in javascript]]
+>* [[Variables]]
+>	* [[Numbers]]
+>	* [[Boolean]]
+>	* [[Strings]]
+>	* [[Arrays]]
+>* [[Objects]]
+>* [[Class]]
+>* [[Operadores]]
+>* [[Functions]]
+>* [[Conditionals]]
+>* [[Ciclos]]
+>* [[JS Functions]]
+>* [[Exportar e importar]]
+>* [[Promise]]
+>* [[async await]]
+>* [[Regular expressions]]
+>* [[Lectura de Json]]
+>* [[Testing with Jest]]
+>* [[Api with Express]]
+>	* [[body-parser]]
+>	* [[nodemon]]
+>	* [[mongoose]]
+>	* [[dotenv]]
+>*  [[Corrección eslint]]
+>* [[Constructor]]
+>* [[Principles for functional programming]]
+>* [[JavaScript Array Prototype]]
+>* [[Currying and Partial Application]]
+>* [[HTML DOM Methods]]
+>	* [[DOM functions]]
+>* [[DOM Events]]
+>	* [[DOM Event Listener]]
+>* [[Create new Elements]]
+
+
+VUE
+
+Aquí está el índice del código:
+
+>* [[Instalación]]
+>* [[Directivas]]
+>* [[script parts]]
+>	* * [[Importar y exportar componentes]]
+>	* Paso de valores
+>		* [[Slot y Props]]
+>		* [[emit]]
+>* [[filters]]
+>* [[router]]
+>* [[Store]]
+
+
+
+
+FRONTEND
+
+- Introducción
+  - Cómo funciona el internet
+    - WebServers, websites, webpages y Web Apps
+    - Web browser
+    - Web hosting
+    - Single Page Application
+  - Core Internet Technologies
+    - APIS and Services
+    - Protocolos de Internet
+
+- HTML
+  - Teoría
+    - Web Components
+  - Elementos
+    - Imagenes
+    - Links
+    - Table
+    - Form
+  - DOM
+    - ¿Qué es DOM?
+    - Shadow DOM
+    - Virtual DOM
+    - Event Listeners
+
+- CSS
+  - Responsive Design
+    - Flexbox
+    - Grid
+    - @media queries
+    - Bootstrap
+  - Procesadores CSS
+    - SASS
+
+- Javascript
+  - Elementos
+    - Js Modules
+    - POO Classes
+    - Types of Events Js
+    - Exportar e importar
+    - Try and Catch
+    - Fetch
+
+- Typescript
+  - Decorators
+
+- Package manager
+  - Dependencies
+  - Package manager
+  - Task Runners
+  - Module Bundlers
+    - Webpack
+
+- Frameworks and Libraries
+  - Angular
+    - Interpolación
+    - Importar componentes
+  - React
+    - React Comandos Básicos
+    - Estructura React
+      - Assests React
+    - Componentes React
+      - Elements
+      - Composition children props
+      - Componetes especializados
+      - HIgher Order Components
+      - Render Props
+    - JSX
+      - State data y Hooks
+      - useReducer
+      - useRef
+      - custom hooks
+    - Eventos sintéticos
+    - Navegación Router
+    - Keys
+    - Side Effects
+    - Formularios
+      - Controlled y uncontrolled components
+    - React.memo
+    - React.cloneElement y React.child
+    - Testing with React
+
